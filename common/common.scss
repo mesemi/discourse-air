@@ -558,3 +558,12 @@ html body #main-outlet {
 .topic-list .main-link.focused {
   box-shadow: none;
 }
+
+
+.display-row.last-ip, .display-row.registration-ip {
+    display: none;
+}
+
+#global-notice-alert-emails-disabled {
+    display: none;
+}
